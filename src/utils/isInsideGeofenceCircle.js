@@ -1,3 +1,10 @@
+/**
+ *This function checks if a location is inside or outside of an circle area.
+ * @param {object} location - Title of the notification.
+ * @param {object} circle - Options of the notification.
+ * @returns {boolean} - location inside or outside of the circle.
+ */
+
 export function isInsideGeofenceCircle(location, circle) {
   const radius = circle.radius;
   const center = circle.center;
