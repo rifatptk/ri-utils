@@ -1,0 +1,9 @@
+{
+  "name": "ri-utils",
+  "version": "1.0.0",
+  "description": "Usefull utility functions.",
+  "main": "index.js",
+  "author": "rifaptk",
+  "license": "MIT",
+  "type": "module"
+}
