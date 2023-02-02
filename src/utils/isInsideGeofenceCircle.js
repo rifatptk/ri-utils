@@ -1,7 +1,7 @@
 /**
  *This function checks if a location is inside or outside of an circle area.
- * @param {object} location - Title of the notification.
- * @param {object} circle - Options of the notification.
+ * @param {object} location - ex: {latitude:24.56324, longitude:88.34523}.
+ * @param {object} circle - ex: {radius:5000, center:{latitude:24.56324, longitude:88.34523}.
  * @returns {boolean} - location inside or outside of the circle.
  */
 
